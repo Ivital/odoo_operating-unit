@@ -36,3 +36,53 @@ msgstr "Операційна одиниця місця призначення"
 #: model:ir.model.fields,field_description:stock_operating_unit.field_stock_move__operating_unit_id
 msgid "Source Location Operating Unit"
 msgstr "Операційна одиниця місця джерела"
+
+#. module: stock_operating_unit
+#. odoo-python
+#: code:addons/stock_operating_unit/model/stock_picking.py:0
+msgid ""
+"Configuration error. The Operating Unit of the picking must be the same as "
+"that of the warehouse of the Picking Type."
+msgstr ""
+"Помилка конфігурації. Операційна одиниця переміщення має збігатися з "
+"операційною одиницею складу типу переміщення."
+
+#. module: stock_operating_unit
+#. odoo-python
+#: code:addons/stock_operating_unit/model/stock_location.py:0
+msgid ""
+"Configuration error. The Parent Stock Location must belong to the same "
+"Operating Unit."
+msgstr ""
+"Помилка конфігурації. Батьківське складське місце має належати тій самій "
+"операційній одиниці."
+
+#. module: stock_operating_unit
+#. odoo-python
+#: code:addons/stock_operating_unit/model/stock_move.py:0
+msgid ""
+"Configuration error. The Stock moves must be related to a location (source "
+"or destination) that belongs to the requesting Operating Unit."
+msgstr ""
+"Помилка конфігурації. Складські переміщення мають бути пов’язані з місцем "
+"(вихідним або призначення), що належить запитуючій операційній одиниці."
+
+#. module: stock_operating_unit
+#. odoo-python
+#: code:addons/stock_operating_unit/model/stock_location.py:0
+msgid ""
+"Configuration error. The operating unit should be assigned to internal "
+"locations only."
+msgstr ""
+"Помилка конфігурації. Операційну одиницю слід призначати лише внутрішнім "
+"місцям."
+
+#. module: stock_operating_unit
+#. odoo-python
+#: code:addons/stock_operating_unit/model/stock_location.py:0
+msgid ""
+"Configuration error. This location is assigned to a warehouse that belongs "
+"to a different operating unit."
+msgstr ""
+"Помилка конфігурації. Це місце призначене складу, який належить іншій "
+"операційній одиниці."

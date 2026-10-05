@@ -27,3 +27,23 @@ msgstr "Операційна одиниця"
 #: model:ir.model.fields,field_description:purchase_operating_unit.field_purchase_order__requesting_operating_unit_id
 msgid "Requesting Operating Unit"
 msgstr "Операційна одиниця заявника"
+
+#. module: purchase_operating_unit
+#. odoo-python
+#: code:addons/purchase_operating_unit/models/purchase_order.py:0
+msgid ""
+"Configuration error. The Company in the Purchase Order and in the Operating "
+"Unit must be the same."
+msgstr ""
+"Помилка конфігурації. Компанія в замовленні на закупівлю та операційній "
+"одиниці має збігатися."
+
+#. module: purchase_operating_unit
+#. odoo-python
+#: code:addons/purchase_operating_unit/models/account_move.py:0
+msgid ""
+"The operating unit of the purchase order must be the same as in the "
+"associated invoices."
+msgstr ""
+"Операційна одиниця замовлення на закупівлю має збігатися з одиницею у "
+"пов’язаних рахунках."

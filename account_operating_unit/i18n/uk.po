@@ -64,3 +64,65 @@ msgstr ""
 #: model:ir.model.fields,help:account_operating_unit.field_account_move__operating_unit_id
 msgid "This operating unit will be defaulted in the move lines."
 msgstr "Ця операційна одиниця типово підставлятиметься в рядки переміщення."
+
+#. module: account_operating_unit
+#. odoo-python
+#: code:addons/account_operating_unit/models/account_journal.py:0
+msgid ""
+"Configuration error. If defined as self-balanced at company level, the "
+"operating unit is mandatory in bank journal."
+msgstr ""
+"Помилка конфігурації. Якщо на рівні компанії визначено самобалансування, "
+"операційна одиниця є обов’язковою в банківському журналі."
+
+#. module: account_operating_unit
+#. odoo-python
+#: code:addons/account_operating_unit/models/res_company.py:0
+msgid ""
+"Configuration error. Please provide an Inter-operating unit clearing "
+"account."
+msgstr ""
+"Помилка конфігурації. Вкажіть кліринговий рахунок між операційними "
+"одиницями."
+
+#. module: account_operating_unit
+#. odoo-python
+#: code:addons/account_operating_unit/models/account_move.py:0
+msgid ""
+"Configuration error. The Operating Unit in the Move Line and in the Move "
+"must be the same."
+msgstr ""
+"Помилка конфігурації. Операційна одиниця в рядку переміщення та в "
+"переміщенні має збігатися."
+
+#. module: account_operating_unit
+#. odoo-python
+#: code:addons/account_operating_unit/models/account_move.py:0
+msgid ""
+"Configuration error. The operating unit is mandatory for each line as the "
+"operating unit has been defined as self-balanced at company level."
+msgstr ""
+"Помилка конфігурації. Операційна одиниця є обов’язковою для кожного рядка, "
+"оскільки на рівні компанії налаштовано самобалансування."
+
+#. module: account_operating_unit
+#. odoo-python
+#: code:addons/account_operating_unit/models/account_move.py:0
+msgid ""
+"Configuration error. You need to define aninter-operating unit clearing "
+"account in the company settings"
+msgstr ""
+"Помилка конфігурації. Потрібно визначити кліринговий рахунок між "
+"операційними одиницями в налаштуваннях компанії"
+
+#. module: account_operating_unit
+#. odoo-python
+#: code:addons/account_operating_unit/models/account_move.py:0
+msgid "OU-Balancing"
+msgstr "Балансування операційних одиниць"
+
+#. module: account_operating_unit
+#. odoo-python
+#: code:addons/account_operating_unit/models/account_move.py:0
+msgid "The OU in the Move and in Journal must be the same."
+msgstr "Операційна одиниця в переміщенні та журналі має збігатися."

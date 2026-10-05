@@ -22,3 +22,23 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:sale_operating_unit.view_sales_order_filter
 msgid "Operating Unit"
 msgstr "Операційна одиниця"
+
+#. module: sale_operating_unit
+#. odoo-python
+#: code:addons/sale_operating_unit/models/crm_team.py:0
+msgid ""
+"Configuration error. It is not possible to change this team. There are sale "
+"orders referencing it in other operating units"
+msgstr ""
+"Помилка конфігурації. Неможливо змінити цю команду: на неї посилаються "
+"замовлення продажу в інших операційних одиницях"
+
+#. module: sale_operating_unit
+#. odoo-python
+#: code:addons/sale_operating_unit/models/sale_order.py:0
+msgid ""
+"Configuration error. The Operating Unit of the sales team must match with "
+"that of the quote/sales order."
+msgstr ""
+"Помилка конфігурації. Операційна одиниця команди продажу має відповідати "
+"одиниці пропозиції/замовлення продажу."

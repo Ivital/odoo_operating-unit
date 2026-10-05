@@ -17,3 +17,13 @@ msgstr ""
 #: model:ir.model.fields,field_description:purchase_stock_operating_unit.field_purchase_order__operating_unit_id
 msgid "Operating Unit"
 msgstr "Операційна одиниця"
+
+#. module: purchase_stock_operating_unit
+#. odoo-python
+#: code:addons/purchase_stock_operating_unit/models/purchase.py:0
+msgid ""
+"Configuration error. The Operating Unit in the Purchase and Deliver To must "
+"be the same."
+msgstr ""
+"Помилка конфігурації. Операційна одиниця в закупівлі та «Доставити до» має "
+"збігатися."

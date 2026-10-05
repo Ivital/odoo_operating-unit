@@ -17,3 +17,13 @@ msgstr ""
 #: model:ir.model.fields,field_description:mrp_operating_unit.field_mrp_production__operating_unit_id
 msgid "Operating Unit"
 msgstr "Операційна одиниця"
+
+#. module: mrp_operating_unit
+#. odoo-python
+#: code:addons/mrp_operating_unit/models/mrp.py:0
+msgid ""
+"The Operating Unit of the Manufacturing Order must match with that of the "
+"Raw Materials and Finished Product Locations."
+msgstr ""
+"Операційна одиниця виробничого замовлення має збігатися з операційною "
+"одиницею місць сировини та готової продукції."

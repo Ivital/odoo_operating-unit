@@ -11,4 +11,23 @@ msgstr ""
 #. module: sale_stock_operating_unit
 #: model:ir.module.module,summary:base.module_sale_stock_operating_unit
 msgid "An operating unit (OU) is an organizational entity part of a company"
-msgstr "Операційна одиниця (OU) — це організаційна сутність, що є частиною компанії"
+msgstr ""
+"Операційна одиниця (OU) — це організаційна сутність, що є частиною компанії"
+
+#. module: sale_stock_operating_unit
+#. odoo-python
+#: code:addons/sale_stock_operating_unit/models/sale_order.py:0
+msgid ""
+"Configuration error!\n"
+"The OperatingUnit in the Sales Order and in the Warehouse must be the same."
+msgstr ""
+"Помилка конфігурації!\n"
+"Операційна одиниця в замовленні продажу та на складі має збігатися."
+
+#. module: sale_stock_operating_unit
+#. odoo-python
+#: code:addons/sale_stock_operating_unit/models/stock_warehouse.py:0
+msgid ""
+"Sales Order records already exist(s) for this warehouse and operating unit."
+msgstr ""
+"Для цього складу й операційної одиниці вже існують записи замовлень продажу."
