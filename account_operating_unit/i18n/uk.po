@@ -31,3 +31,13 @@ msgstr "Операційні підрозділи"
 #: model_terms:ir.ui.view,arch_db:account_operating_unit.view_account_payment_search
 msgid "Operating Unit"
 msgstr "Операційна одиниця"
+
+#. module: account_operating_unit
+#: model:ir.model.fields,field_description:account_operating_unit.field_res_company__inter_ou_clearing_account_id
+msgid "Inter-operating unit clearing account"
+msgstr "Кліринговий рахунок між операційними одиницями"
+
+#. module: account_operating_unit
+#: model:ir.model.fields,field_description:account_operating_unit.field_res_company__ou_is_self_balanced
+msgid "Operating Units are self-balanced"
+msgstr "Операційні одиниці самобалансовані"

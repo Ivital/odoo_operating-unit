@@ -84,3 +84,23 @@ msgstr "Операційна одиниця"
 #: model:ir.model.fields,field_description:operating_unit.field_operating_unit__user_ids
 msgid "Users Allowed"
 msgstr "Дозволені користувачі"
+
+#. module: operating_unit
+#: model:ir.model.fields,field_description:operating_unit.field_res_users__operating_unit_ids
+msgid "Allowed Operating Units"
+msgstr "Дозволені операційні одиниці"
+
+#. module: operating_unit
+#: model_terms:ir.actions.act_window,help:operating_unit.action_operating_unit_tree
+msgid "Click to start a new Operating Unit."
+msgstr "Натисніть, щоб створити нову операційну одиницю."
+
+#. module: operating_unit
+#: model:ir.model.fields,field_description:operating_unit.field_res_users__default_operating_unit_id
+msgid "Default Operating Unit"
+msgstr "Операційна одиниця за замовчуванням"
+
+#. module: operating_unit
+#: model_terms:ir.ui.view,arch_db:operating_unit.view_operating_unit_search
+msgid "Search Operating Unit"
+msgstr "Пошук операційної одиниці"

@@ -26,3 +26,13 @@ msgstr "Операційна одиниця"
 #: model:ir.model.fields,field_description:stock_operating_unit.field_stock_picking__operating_unit_id
 msgid "Requesting Operating Unit"
 msgstr "Операційна одиниця заявника"
+
+#. module: stock_operating_unit
+#: model:ir.model.fields,field_description:stock_operating_unit.field_stock_move__operating_unit_dest_id
+msgid "Dest. Location Operating Unit"
+msgstr "Операційна одиниця місця призначення"
+
+#. module: stock_operating_unit
+#: model:ir.model.fields,field_description:stock_operating_unit.field_stock_move__operating_unit_id
+msgid "Source Location Operating Unit"
+msgstr "Операційна одиниця місця джерела"

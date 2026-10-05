@@ -161,3 +161,42 @@ msgstr "Нижній колонтитул звіту"
 #: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.view_operating_unit_form
 msgid "Report Layout"
 msgstr "Макет звіту"
+
+#. module: report_qweb_operating_unit
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.view_operating_unit_form
+msgid ""
+"Address and other information that appear on the report can be changed on "
+"the partner form"
+msgstr ""
+"Адресу та іншу інформацію, що відображаються у звіті, можна змінити у формі "
+"партнера"
+
+#. module: report_qweb_operating_unit
+#: model:ir.model.fields,help:report_qweb_operating_unit.field_operating_unit__report_footer
+msgid "Footer text displayed at the bottom of all reports."
+msgstr "Нижній колонтитул відображається в кінці кожної сторінки звітів."
+
+#. module: report_qweb_operating_unit
+#: model:ir.model.fields,help:report_qweb_operating_unit.field_operating_unit__operating_unit_details
+msgid "Header text displayed at the top of all reports."
+msgstr "Заголовок тексту відображається зверху всіх звітів."
+
+#. module: report_qweb_operating_unit
+#: model:ir.model.fields,field_description:report_qweb_operating_unit.field_operating_unit__is_operating_unit_details_empty
+msgid "Is Operating Unit Details Empty"
+msgstr "Деталі операційної одиниці порожні"
+
+#. module: report_qweb_operating_unit
+#: model:ir.model.fields,field_description:report_qweb_operating_unit.field_operating_unit__operating_unit_details
+msgid "Operating Unit Details"
+msgstr "Деталі операційної одиниці"
+
+#. module: report_qweb_operating_unit
+#: model:ir.model.fields,field_description:report_qweb_operating_unit.field_operating_unit__report_header
+msgid "Operating Unit Tagline"
+msgstr "Слоган операційної одиниці"
+
+#. module: report_qweb_operating_unit
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_standard_ou
+msgid "Operating Unit tagline"
+msgstr "Слоган операційної одиниці"
