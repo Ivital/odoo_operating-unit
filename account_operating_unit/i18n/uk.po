@@ -41,3 +41,26 @@ msgstr "Кліринговий рахунок між операційними о
 #: model:ir.model.fields,field_description:account_operating_unit.field_res_company__ou_is_self_balanced
 msgid "Operating Units are self-balanced"
 msgstr "Операційні одиниці самобалансовані"
+
+#. module: account_operating_unit
+#: model:ir.model.fields,help:account_operating_unit.field_res_company__ou_is_self_balanced
+msgid ""
+"Activate if your company is required to generate a balanced balance sheet "
+"for each operating unit."
+msgstr ""
+"Увімкніть, якщо ваша компанія має формувати збалансований баланс для кожного"
+" операційного підрозділу."
+
+#. module: account_operating_unit
+#: model:ir.model.fields,help:account_operating_unit.field_account_journal__operating_unit_id
+msgid ""
+"Operating Unit that will be used in payments, when this journal is used."
+msgstr ""
+"Операційний підрозділ, який використовуватиметься в платежах під час роботи "
+"з цим журналом."
+
+#. module: account_operating_unit
+#: model:ir.model.fields,help:account_operating_unit.field_account_bank_statement_line__operating_unit_id
+#: model:ir.model.fields,help:account_operating_unit.field_account_move__operating_unit_id
+msgid "This operating unit will be defaulted in the move lines."
+msgstr "Ця операційна одиниця типово підставлятиметься в рядки переміщення."

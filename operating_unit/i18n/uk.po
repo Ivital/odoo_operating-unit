@@ -104,3 +104,28 @@ msgstr "Операційна одиниця за замовчуванням"
 #: model_terms:ir.ui.view,arch_db:operating_unit.view_operating_unit_search
 msgid "Search Operating Unit"
 msgstr "Пошук операційної одиниці"
+
+#. module: operating_unit
+#: model:res.groups,name:operating_unit.group_manager_operating_unit
+msgid "Manager of Operating Units"
+msgstr "Менеджер операційних підрозділів"
+
+#. module: operating_unit
+#: model:res.groups,name:operating_unit.group_multi_operating_unit
+msgid "Multiple Operating Unit"
+msgstr "Кілька операційних підрозділів"
+
+#. module: operating_unit
+#: model:ir.module.category,name:operating_unit.module_operating_units
+msgid "Operating Units Group"
+msgstr "Група операційних підрозділів"
+
+#. module: operating_unit
+#: model:ir.model.constraint,message:operating_unit.constraint_operating_unit_code_company_uniq
+msgid "The code of the operating unit must be unique per company!"
+msgstr "Код операційної одиниці має бути унікальним для компанії!"
+
+#. module: operating_unit
+#: model:ir.model.constraint,message:operating_unit.constraint_operating_unit_name_company_uniq
+msgid "The name of the operating unit must be unique per company!"
+msgstr "Назва операційної одиниці має бути унікальною для компанії!"

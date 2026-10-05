@@ -200,3 +200,12 @@ msgstr "Слоган операційної одиниці"
 #: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_standard_ou
 msgid "Operating Unit tagline"
 msgstr "Слоган операційної одиниці"
+
+#. module: report_qweb_operating_unit
+#: model:ir.model.fields,help:report_qweb_operating_unit.field_operating_unit__report_header
+msgid ""
+"Operating Unit tagline, which is included in a printed document's header or "
+"footer (depending on the selected layout)."
+msgstr ""
+"Слоган операційного підрозділу, що включається у верхній або нижній "
+"колонтитул друкованого документа залежно від макета."
