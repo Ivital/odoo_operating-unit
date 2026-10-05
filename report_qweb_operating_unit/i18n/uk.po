@@ -35,3 +35,129 @@ msgstr "Логотип"
 #: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_wave_ou
 msgid "Tax ID"
 msgstr "Податковий номер"
+
+#. module: report_qweb_operating_unit
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_bold_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_boxed_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_bubble_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_folder_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_standard_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_striped_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_wave_ou
+msgid "<strong>Company address block</strong>"
+msgstr "<strong>Блок адреси компанії</strong>"
+
+#. module: report_qweb_operating_unit
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_bold_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_boxed_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_bubble_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_folder_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_standard_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_striped_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_wave_ou
+msgid "<strong>Company details block</strong>"
+msgstr "<strong>Блок реквізитів компанії</strong>"
+
+#. module: report_qweb_operating_unit
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_bold_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_boxed_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_bubble_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_folder_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_standard_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_striped_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_wave_ou
+msgid "<strong>Operating Unit address block</strong>"
+msgstr "<strong>Блок адреси операційної одиниці</strong>"
+
+#. module: report_qweb_operating_unit
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_bold_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_boxed_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_bubble_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_folder_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_standard_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_striped_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_wave_ou
+msgid "<strong>Operating unit details block</strong>"
+msgstr "<strong>Блок реквізитів операційної одиниці</strong>"
+
+#. module: report_qweb_operating_unit
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_bold_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_boxed_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_bubble_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_folder_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_standard_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_striped_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_wave_ou
+msgid "Company tagline"
+msgstr "Слоган компанії"
+
+#. module: report_qweb_operating_unit
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_bold_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_boxed_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_bubble_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_folder_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_standard_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_striped_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_wave_ou
+msgid "Contains the company address."
+msgstr "Містить адресу компанії."
+
+#. module: report_qweb_operating_unit
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_bold_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_boxed_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_bubble_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_folder_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_standard_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_striped_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_wave_ou
+msgid "Contains the company details."
+msgstr "Містить реквізити компанії."
+
+#. module: report_qweb_operating_unit
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_bold_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_boxed_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_bubble_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_folder_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_standard_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_striped_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_wave_ou
+msgid "Contains the operating unit address."
+msgstr "Містить адресу операційної одиниці."
+
+#. module: report_qweb_operating_unit
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_bold_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_boxed_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_bubble_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_folder_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_standard_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_striped_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_wave_ou
+msgid "Contains the operating unit details."
+msgstr "Містить реквізити операційної одиниці."
+
+#. module: report_qweb_operating_unit
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_bold_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_boxed_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_bubble_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_folder_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_striped_ou
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.external_layout_wave_ou
+msgid ""
+"Operating\n"
+"                    Unit tagline"
+msgstr "Слоган операційної одиниці"
+
+#. module: report_qweb_operating_unit
+#: model:ir.model,name:report_qweb_operating_unit.model_operating_unit
+msgid "Operating Unit"
+msgstr "Операційна одиниця"
+
+#. module: report_qweb_operating_unit
+#: model:ir.model.fields,field_description:report_qweb_operating_unit.field_operating_unit__report_footer
+msgid "Report Footer"
+msgstr "Нижній колонтитул звіту"
+
+#. module: report_qweb_operating_unit
+#: model_terms:ir.ui.view,arch_db:report_qweb_operating_unit.view_operating_unit_form
+msgid "Report Layout"
+msgstr "Макет звіту"

@@ -11,4 +11,14 @@ msgstr ""
 #. module: sale_operating_unit
 #: model:ir.module.module,summary:base.module_sale_operating_unit
 msgid "An operating unit (OU) is an organizational entity part of a company"
-msgstr "Операційна одиниця (OU) — це організаційна сутність, що є частиною компанії"
+msgstr ""
+"Операційна одиниця (OU) — це організаційна сутність, що є частиною компанії"
+
+#. module: sale_operating_unit
+#: model:ir.model.fields,field_description:sale_operating_unit.field_sale_order__operating_unit_id
+#: model:ir.model.fields,field_description:sale_operating_unit.field_sale_order_line__operating_unit_id
+#: model:ir.model.fields,field_description:sale_operating_unit.field_sale_report__operating_unit_id
+#: model_terms:ir.ui.view,arch_db:sale_operating_unit.view_sale_report_search
+#: model_terms:ir.ui.view,arch_db:sale_operating_unit.view_sales_order_filter
+msgid "Operating Unit"
+msgstr "Операційна одиниця"
