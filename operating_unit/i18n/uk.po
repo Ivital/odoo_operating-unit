@@ -11,4 +11,54 @@ msgstr ""
 #. module: operating_unit
 #: model:ir.module.module,summary:base.module_operating_unit
 msgid "An operating unit (OU) is an organizational entity part of a company"
-msgstr "Операційна одиниця (OU) — це організаційна сутність, що є частиною компанії"
+msgstr ""
+"Операційна одиниця (OU) — це організаційна сутність, що є частиною компанії"
+
+#. module: operating_unit
+#: model:ir.model.fields,field_description:operating_unit.field_operating_unit__active
+msgid "Active"
+msgstr "Активний"
+
+#. module: operating_unit
+#: model:ir.model.fields,field_description:operating_unit.field_operating_unit__code
+#: model_terms:ir.ui.view,arch_db:operating_unit.view_operating_unit_search
+msgid "Code"
+msgstr "Код"
+
+#. module: operating_unit
+#: model:ir.model.fields,field_description:operating_unit.field_operating_unit__company_id
+msgid "Company"
+msgstr "Компанія"
+
+#. module: operating_unit
+#: model:ir.model.fields,field_description:operating_unit.field_operating_unit__create_uid
+msgid "Created by"
+msgstr "Створив"
+
+#. module: operating_unit
+#: model:ir.model.fields,field_description:operating_unit.field_operating_unit__create_date
+msgid "Created on"
+msgstr "Створено"
+
+#. module: operating_unit
+#: model:ir.model.fields,field_description:operating_unit.field_operating_unit__display_name
+msgid "Display Name"
+msgstr "Відображувана назва"
+
+#. module: operating_unit
+#: model:ir.model.fields,field_description:operating_unit.field_operating_unit__name
+msgid "Name"
+msgstr "Назва"
+
+#. module: operating_unit
+#: model:ir.actions.act_window,name:operating_unit.action_operating_unit_tree
+#: model:ir.model.fields,field_description:operating_unit.field_res_users__assigned_operating_unit_ids
+#: model:ir.ui.menu,name:operating_unit.menu_action_operating_unit_tree
+#: model_terms:ir.ui.view,arch_db:operating_unit.view_users_form
+msgid "Operating Units"
+msgstr "Операційні підрозділи"
+
+#. module: operating_unit
+#: model:ir.model.fields,field_description:operating_unit.field_operating_unit__partner_id
+msgid "Partner"
+msgstr "Партнер"
